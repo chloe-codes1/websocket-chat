@@ -1,6 +1,8 @@
-# WebSocket Chat
+# WebSocket Chat :busts_in_silhouette: :speech_balloon:
 
 > Simple application to toy around with Spring WebSockets
+
+https://chloe-codes1.github.io/websocket-chat/
 
 <br/>
 
