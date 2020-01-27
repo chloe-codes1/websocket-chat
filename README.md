@@ -22,7 +22,6 @@
 
 
 
-
 > How to use
 
 1. Connect to WebSocket
@@ -32,5 +31,6 @@
 3. Enjoy Chatter 
 
 
+<br/>
 
 [Link to this site](/chat-app/src/main/resources/templates/index.html)
