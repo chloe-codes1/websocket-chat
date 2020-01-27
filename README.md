@@ -20,7 +20,6 @@
 
 <br/>
 
-<br/>
 
 
 
@@ -31,3 +30,7 @@
 2. Type your name & Log-In
 
 3. Enjoy Chatter 
+
+
+
+[Link to this site](/chat-app/src/main/resources/templates/index.html)
