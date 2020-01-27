@@ -2,12 +2,11 @@
 
 > Simple application to toy around with Spring WebSockets
 
-https://chloe-codes1.github.io/websocket-chat/
-
 <br/>
 
 `Spring Boot`   `WebSocket`   `Thymeleaf`    `Ajax`   `JQuery`   `Java`  `Sockjs`  `Stomp-Client`  
-
+<br/>
+https://chloe-codes1.github.io/websocket-chat/
 
 
 <br/>
